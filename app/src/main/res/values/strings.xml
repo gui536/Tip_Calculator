@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tips_Calculator</string>
+    <string name="cost_of_service">Custo do serviço</string>
+    <string name="how_was_the_service">Como foi o serviço?</string>
+    <string name="tip_result">Valor da Caixinha</string>
+    <string name="calculate">Calcular</string>
+    <string name="round_up_switch">Deseja arredondar a caixinha?</string>
+    <string name="fifteen_percent">Regular (15%)</string>
+    <string name="eighteen_18">Bom (18%)</string>
+    <string name="twenty_percent">Show de bola (20%)</string>
+    <string name="service_question">Avalie o serviço!</string>
+</resources>
